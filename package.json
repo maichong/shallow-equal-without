@@ -1,0 +1,20 @@
+{
+  "name": "shallow-equal-without",
+  "version": "0.1.0",
+  "description": "Shallow equal check object without specified properties.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/shallow-equal-without.git"
+  },
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/shallow-equal-without/issues"
+  },
+  "homepage": "https://github.com/maichong/shallow-equal-without#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
