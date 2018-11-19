@@ -1,9 +1,3 @@
-/**
- * @copyright Maichong Software Ltd. 2017 http://maichong.it
- * @date 2017-01-16
- * @author Liang <liang@maichong.it>
- */
-
 var _ = require('lodash');
 
 module.exports = function shallowEqualWithout(objA, objB) {
